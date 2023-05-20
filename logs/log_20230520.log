@@ -10,3 +10,5 @@
 [2023-05-20 05:11:22,066] 	ERROR 	75 	id_data.py 	<module>() 	Error occurred during ID Data process. Error: {'code': 0, 'message': "we can't execute this request"}
 [2023-05-20 06:14:23,098] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
 [2023-05-20 06:15:43,023] 	INFO 	73 	id_data.py 	<module>() 	ID Data Ended
+[2023-05-20 07:09:50,958] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
+[2023-05-20 07:11:18,586] 	INFO 	73 	id_data.py 	<module>() 	ID Data Ended
