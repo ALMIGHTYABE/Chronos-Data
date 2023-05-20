@@ -1,3 +1,0 @@
-[2023-04-18 17:56:06,913] 	INFO 	38 	bribe_data.py 	<module>() 	Bribe Data Started
-[2023-04-18 17:56:55,195] 	ERROR 	144 	bribe_data.py 	<module>() 	Error occurred during Bribe Data process. Error: No columns to parse from file
-[2023-04-18 17:58:02,060] 	INFO 	38 	bribe_data.py 	<module>() 	Bribe Data Started
