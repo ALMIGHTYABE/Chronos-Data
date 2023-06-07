@@ -51,7 +51,11 @@ try:
     ids_df = pd.DataFrame(names)
     ids_df[["type", "pair"]] = ids_df["name"].str.split("-", 1, expand=True)
     ids_df.drop(["pair"], axis=1, inplace=True)
-
+    
+    idia = ["0x579E22665454367DdD2EF6C1A7fBb6873f465c10", "0x0236fE5972565FA8C4a9f3911DC943Fdf4045714", "0x69fD0EA1041BC4c495D5371a074BF1dcD6700577"]
+    for pool in idia:
+        index = ids_df[ids_df["address"] == pool].index
+        ids_df.loc[index, "name"] = ids_df.loc[index, "name"].values[0] + " OLD"
 
     # Solidly Pools
     contract_instance = w3.eth.contract(address=ve_contract, abi=voter_abi)
