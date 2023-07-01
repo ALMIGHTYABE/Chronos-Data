@@ -36,3 +36,5 @@
 [2023-07-01 19:13:25,235] 	INFO 	77 	id_data.py 	<module>() 	ID Data Ended
 [2023-07-01 20:12:45,996] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
 [2023-07-01 20:14:43,428] 	ERROR 	79 	id_data.py 	<module>() 	Error occurred during ID Data process. Error: HTTPSConnectionPool(host='endpoints.omniatech.io', port=443): Max retries exceeded with url: /v1/arbitrum/one/public (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc5fbbd3910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-07-01 21:10:35,488] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
+[2023-07-01 21:13:46,844] 	INFO 	77 	id_data.py 	<module>() 	ID Data Ended
