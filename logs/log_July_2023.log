@@ -996,3 +996,5 @@
 [2023-07-22 21:15:16,010] 	INFO 	77 	id_data.py 	<module>() 	ID Data Ended
 [2023-07-22 22:10:16,523] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
 [2023-07-22 22:13:46,379] 	INFO 	77 	id_data.py 	<module>() 	ID Data Ended
+[2023-07-22 23:10:30,155] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
+[2023-07-22 23:10:31,396] 	ERROR 	79 	id_data.py 	<module>() 	Error occurred during ID Data process. Error: 429 Client Error: Too Many Requests for url: https://endpoints.omniatech.io/v1/arbitrum/one/public
