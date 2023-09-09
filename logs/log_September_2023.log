@@ -32,3 +32,5 @@
 [2023-09-08 12:31:43,173] 	INFO 	77 	id_data.py 	<module>() 	ID Data Ended
 [2023-09-09 01:00:07,449] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
 [2023-09-09 01:04:27,119] 	INFO 	77 	id_data.py 	<module>() 	ID Data Ended
+[2023-09-09 12:24:44,037] 	INFO 	22 	id_data.py 	<module>() 	ID Data Started
+[2023-09-09 12:24:44,628] 	ERROR 	79 	id_data.py 	<module>() 	Error occurred during ID Data process. Error: 521 Server Error:  for url: https://endpoints.omniatech.io/v1/arbitrum/one/public
